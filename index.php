@@ -1,0 +1,2 @@
+<?ghp
+echo 'teste';
